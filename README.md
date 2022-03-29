@@ -1,6 +1,6 @@
 # Whatsapp-Chat-Analysis
 
-#### It's Web app and it takes a your exported whatsapp chat and it will tells insights from text some stats about your chats!
+#### It's Web app and it takes a your exported whatsapp chat and it will tells insights from text and some stats about your chats!
 
 ###### Deployed Link--> https://whatsappchat-analysiss.herokuapp.com/ 
 
